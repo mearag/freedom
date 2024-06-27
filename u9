@@ -56,7 +56,7 @@
             "port": 2083,
             "users": [
               {
-                "4d22e6e0-123f-462b-9a2e-289b84518eca",
+                "id": "4d22e6e0-123f-462b-9a2e-289b84518eca",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
