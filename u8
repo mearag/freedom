@@ -94,7 +94,7 @@
         "domainStrategy": "AsIs",
         "fragment": {
           "packets": "1-3",
-          "length": "50-80",
+          "length": "40-50",
           "interval": "5"
         }
       },
